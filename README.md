@@ -4,6 +4,7 @@
 
 <details>
 <summary><h2>Optimization Windows</h2></summary>
+
 Я использую [**ReviOS Playbook**](https://github.com/meetrevision/playbook) он не вырезает ничего что может сломать систему, при этом заметно ее оптимизирует.
 Если тоже хотите его использовать, то лучше всего это делать на только что установленной системе.
 
